@@ -10,7 +10,8 @@ KELAS : TI.22.A.3
 
 2. Tulisan " Saya Sedang Belajar Python"
 
-![2022-10-24 (1)](https://user-images.githubusercontent.com/115518483/197446374-d52ad9e4-5048-4f70-a1b5-880f5bbd84db.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/115518483/197448730-309c60a3-78a0-4bf8-be66-c76d8735ddb7.png)
+
 
 Hasil Output Dari Kode Tersebut
 
@@ -28,7 +29,8 @@ Hasil Output Dari Kode Tersebut
 
 5. Mencetak Hasil Penjumlahan A+B
 
-![Screenshot (29)](https://user-images.githubusercontent.com/115518483/197446847-e73e08aa-1607-4852-80cc-046590345474.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/115518483/197448780-ad24246e-3bcc-412e-891a-0f8ed0d6f4a8.png)
+
 
 Hasil Output Dari Kode Tersebut
 
@@ -44,7 +46,8 @@ Hasil Output Dari Kode Tersebut
 
 4. Menggunakan Format String
 
-![Screenshot (31)](https://user-images.githubusercontent.com/115518483/197447064-aa82a39d-58b9-431a-b518-b9da6bcf0399.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/115518483/197448804-5a22fcfa-8db8-41d6-b5f5-ddc5bcdd7138.png)
+
 
 Hasil Output Dari Kode Tersebut
 
